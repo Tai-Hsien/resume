@@ -22,8 +22,8 @@ Highly accomplished AI Scientist and Solutions Engineering Consultant with a Ph.
 - Developed a comprehensive 3D image processing pipeline and customized GUI software for clinical diagnosis and biomechanical analysis.
 - Digitalized clinical management processes, improving operational efficiency.
 
-### **Engineer | SOVE Inc., Columbus OH**
-*Mar 2020 – Jun 2021*
+### **Collaborator | SOVE Inc., Columbus OH**
+*Jul 2021 – Present*
 - Designed, fabricated, and finished 3D printed components for SOVE products.
 - Implemented CAD-based tooth movement measurement and developed a GUI for automated systems.
 
