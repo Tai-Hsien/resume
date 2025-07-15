@@ -25,7 +25,6 @@ Highly accomplished AI Scientist and Solutions Engineering Consultant with a Ph.
 ### **Collaborator | SOVE Inc., Columbus OH**
 *Jul 2021 – Present*
 - Designed, fabricated, and finished 3D printed components for SOVE products.
-- Implemented CAD-based tooth movement measurement and developed a GUI for automated systems.
 
 ---
 
